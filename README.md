@@ -1,6 +1,8 @@
 # Matte Black Theme for Zed
 
-Find your Zen in Zed. A dark, matte black theme designed for focused coding with carefully tuned syntax colors and high contrast. Embrace simplicity, enhance clarity.
+Find your Zen in Zed. 
+
+A dark, matte black theme designed for focused coding with carefully tuned syntax colors and high contrast. Embrace simplicity, enhance clarity.
 
 ## Installation
 
