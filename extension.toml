@@ -1,0 +1,9 @@
+id = "matte-black-theme"
+name = "Matte Black Theme"
+version = "1.0.0"
+schema_version = 1
+authors = ["Youpele <youpele@example.com>"]
+description = "A sleek matte black theme for Zed editor with good contrast and optimized code visibility for better focus. Designed for extra zen in Zed."
+repository = "https://github.com/youpele/matte-black-theme"
+license = "MIT"
+categories = ["themes"]

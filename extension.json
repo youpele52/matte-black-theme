@@ -1,0 +1,12 @@
+{
+  "name": "matte-black-theme",
+  "version": "1.0.0",
+  "description": "A sleek matte black theme for Zed editor with good contrast and optimized code visibility for better focus. Designed for extra zen in Zed.",
+  "themes": [
+    "themes/matte-black-theme.json"
+  ],
+  "authors": ["Youpele"],
+  "repository": "https://github.com/youpele/matte-black-theme",
+  "license": "MIT",
+  "categories": ["themes"]
+}
