@@ -1,15 +1,8 @@
 # Matte Black Theme for Zed
 
-A sleek, matte black theme for the Zed editor.
-
-## Features
-
-- Carefully chosen accent colors for better code visibility
-- High contrast for readability
-- Optimized for code editing
-- Minimalist design with focus on code
+Find your Zen in Zed. A dark, matte black theme designed for focused coding with carefully tuned syntax colors and high contrast. Embrace simplicity, enhance clarity.
 
 ## Installation
 
 1. Copy the theme files to your Zed themes directory
-2. Select "Matte Black" from the theme picker
+2. Select "Matte Black Theme v0.1.0" from the theme picker
