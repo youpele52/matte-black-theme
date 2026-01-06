@@ -65,7 +65,7 @@
         "editor.active_wrap_guide": "#555555",
         "editor.document_highlight.read_background": "#3A3A3A",
         "editor.document_highlight.write_background": "#3A3A3A",
-        "terminal.background": "#263238",
+        "terminal.background": "#212121",
         "terminal.foreground": "#ECEFF1",
         "terminal.bright_foreground": "#ECEFF1",
         "terminal.dim_foreground": "#90A4AE",
@@ -305,7 +305,7 @@
             "font_weight": null
           },
           "title": {
-            "color": "#ECEFF1",
+            "color": "#F7CD7A",
             "font_style": null,
             "font_weight": null
           },
